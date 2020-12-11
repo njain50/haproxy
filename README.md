@@ -11,3 +11,4 @@ tag 1.4 ==> haproxy in http mode
 
 tag 1.5 ==> haproxy with two backends
 
+tag 1.6 ==> haproxy block admin for users
